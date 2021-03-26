@@ -1,6 +1,7 @@
 Archivo de Prueba
 
-Esto texto es para ir viendo los posibles cambios.
+Este texto es para ir viendo los posibles cambios.
+Y probando en añadir una linea nueva.
 
 Tengo sueño pero seguimos estudiando Git
 
