@@ -5,3 +5,4 @@ Y probando en añadir una linea nueva.
 
 Tengo sueño pero seguimos estudiando Git
 
+Otra linea de codigo nueva para ver los estados del archivo al añadir lineas. 
